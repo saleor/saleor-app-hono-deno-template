@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-A Saleor app template using Hono (ultrafast router) and Deno runtime, deployable to Deno Deploy. Uses unreleased `@saleor/app-sdk` features.
+A Saleor app template using Hono (ultrafast router) and Deno runtime, deployable to Deno Deploy.
 
 ## Commands
 

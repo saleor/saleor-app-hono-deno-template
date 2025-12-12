@@ -2,13 +2,6 @@
 
 A lightweight Saleor app template leveraging Hono's ultrafast routing capabilities (under 14kB) and Deno for runtime and deployment.
 
-> [!CAUTION]
-> This example uses unreleased features of `@saleor/app-sdk`
-
-## Demo
-
-Explore the live demo at [saleor-app-hono-deno.deno.dev](https://saleor-app-hono-deno.deno.dev/).
-
 ## Overview
 
 This template provides a foundation for building Saleor apps using the Hono framework and Deno, featuring:
