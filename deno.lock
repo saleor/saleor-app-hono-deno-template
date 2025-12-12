@@ -12,7 +12,7 @@
     "npm:@graphql-codegen/typescript@3.0.4": "3.0.4_graphql@16.10.0",
     "npm:@graphql-codegen/urql-introspection@2.2.1": "2.2.1_graphql@16.10.0",
     "npm:@graphql-typed-document-node/core@^3.2.0": "3.2.0_graphql@16.10.0",
-    "npm:@saleor/app-sdk@0.0.0-pr-20250109150409": "0.0.0-pr-20250109150409_graphql@16.10.0_next@15.1.4__@opentelemetry+api@1.9.0__react@18.3.1__react-dom@18.3.1___react@18.3.1_react@18.3.1_react-dom@18.3.1__react@18.3.1_@opentelemetry+api@1.9.0",
+    "npm:@saleor/app-sdk@0.0.0-pr-20250110173426": "0.0.0-pr-20250110173426_graphql@16.10.0_next@15.1.4__@opentelemetry+api@1.9.0__react@18.3.1__react-dom@18.3.1___react@18.3.1_react@18.3.1_react-dom@18.3.1__react@18.3.1_@opentelemetry+api@1.9.0",
     "npm:@types/node@*": "22.5.4",
     "npm:@types/react@^18.3.12": "18.3.18",
     "npm:@vitejs/plugin-react@^4.3.3": "4.3.4_vite@5.4.11_@babel+core@7.26.0_@types+node@22.5.4",
@@ -1310,8 +1310,8 @@
     "@rollup/rollup-win32-x64-msvc@4.30.1": {
       "integrity": "sha512-D6qjsXGcvhTjv0kI4fU8tUuBDF/Ueee4SVX79VfNDXZa64TfCW1Slkb6Z7O1p7vflqZjcmOVdZlqf8gvJxc6og=="
     },
-    "@saleor/app-sdk@0.0.0-pr-20250109150409_graphql@16.10.0_next@15.1.4__@opentelemetry+api@1.9.0__react@18.3.1__react-dom@18.3.1___react@18.3.1_react@18.3.1_react-dom@18.3.1__react@18.3.1_@opentelemetry+api@1.9.0": {
-      "integrity": "sha512-ROxpK0EnLnNVRaB5UNLDFMy/pdKloSn2EiXx6TZDsJ20hSESADNS0VhvbiVlOEy3EDskZhwh6m1TPy6+mhhzpw==",
+    "@saleor/app-sdk@0.0.0-pr-20250110173426_graphql@16.10.0_next@15.1.4__@opentelemetry+api@1.9.0__react@18.3.1__react-dom@18.3.1___react@18.3.1_react@18.3.1_react-dom@18.3.1__react@18.3.1_@opentelemetry+api@1.9.0": {
+      "integrity": "sha512-+Ig6VoFaWQy8KQhbFvBnoShHysL55P5joHhZTimILHP11B1feHtAjLDci0fx5yXsN2N1O3raRT1o7sevtd0l2w==",
       "dependencies": [
         "@opentelemetry/api",
         "@opentelemetry/semantic-conventions",
@@ -3687,7 +3687,7 @@
     "dependencies": [
       "jsr:@hono/hono@^4.6.16",
       "npm:@deno/vite-plugin@^1.0.2",
-      "npm:@saleor/app-sdk@0.0.0-pr-20250109150409",
+      "npm:@saleor/app-sdk@0.0.0-pr-20250110173426",
       "npm:@types/react@^18.3.12",
       "npm:@vitejs/plugin-react@^4.3.3",
       "npm:react-dom@^18.3.1",
