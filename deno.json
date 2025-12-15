@@ -1,14 +1,14 @@
 {
   "imports": {
-    "hono": "jsr:@hono/hono@^4.6.16",
-    "@saleor/app-sdk": "npm:@saleor/app-sdk@0.0.0-pr-20250110173426",
-    "@types/react": "npm:@types/react@^18.3.12",
-    "@deno/vite-plugin": "npm:@deno/vite-plugin@^1.0.2",
-    "@vitejs/plugin-react": "npm:@vitejs/plugin-react@^4.3.3",
-    "react": "npm:react@^18.3.1",
-    "react-dom": "npm:react-dom@^18.3.1",
-    "react-router-dom": "npm:react-router-dom@^6.28.0",
-    "vite": "npm:vite@^5.4.11"
+    "hono": "jsr:@hono/hono@^4.10.8",
+    "@saleor/app-sdk": "npm:@saleor/app-sdk@^1.5.0",
+    "@types/react": "npm:@types/react@^19.2.7",
+    "@deno/vite-plugin": "npm:@deno/vite-plugin@^1.0.5",
+    "@vitejs/plugin-react": "npm:@vitejs/plugin-react@^5.1.2",
+    "react": "npm:react@^19.2.3",
+    "react-dom": "npm:react-dom@^19.2.3",
+    "react-router-dom": "npm:react-router-dom@^7.10.1",
+    "vite": "npm:vite@^7.2.7"
   },
   "tasks": {
     "dev": "deno run -A --node-modules-dir=auto npm:vite",
